@@ -103,4 +103,4 @@ theme: mdsuper
 deploy:
   type: git
   repo: https://github.com:1092622894/blue_blog.git
-  branch: master
+  branch: main
