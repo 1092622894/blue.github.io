@@ -1,5 +1,5 @@
-http://example.com/404/index.html
-http://example.com/about/index.html
-http://example.com/tags/index.html
-http://example.com/2024/03/21/hello-world/
-http://example.com/
+https://1092622894.github.io/blue.github.io/404/index.html
+https://1092622894.github.io/blue.github.io/about/index.html
+https://1092622894.github.io/blue.github.io/tags/index.html
+https://1092622894.github.io/blue.github.io/2024/03/21/hello-world/
+https://1092622894.github.io/blue.github.io
